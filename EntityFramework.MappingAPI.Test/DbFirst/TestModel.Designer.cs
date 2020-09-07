@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\dev\EntityFramework.MappingAPI\trunk\src\EntityFramework.MappingAPI.Test\DbFirst\TestModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\mamif0\source\Github\EntityFramework.MappingAPI\EntityFramework.MappingAPI.Test\DbFirst\TestModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

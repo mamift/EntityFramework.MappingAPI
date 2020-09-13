@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net452</TargetFramework>
+    <TargetFramework>net40</TargetFramework>
     <RootNamespace>EntityFramework.MappingAPI</RootNamespace>
     <Version>0.5.0</Version>
     <Authors>github.com/mamift</Authors>
